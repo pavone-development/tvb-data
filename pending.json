@@ -2,52 +2,10 @@
   "updated_at": 1763600350271,
   "pending": [
     {
-      "submission_id": 0,
-      "k": 0,
-      "w": 0,
-      "h": 0
-    },
-    {
-      "submission_id": 22,
-      "k": 3847,
-      "w": 9,
-      "h": 9
-    },
-    {
-      "submission_id": 23,
-      "k": 79,
-      "w": 2,
-      "h": 2
-    },
-    {
       "submission_id": 24,
       "k": 1394,
       "w": 1,
       "h": 1
-    },
-    {
-      "submission_id": 25,
-      "k": 1397,
-      "w": 1,
-      "h": 1
-    },
-    {
-      "submission_id": 26,
-      "k": 1476,
-      "w": 1,
-      "h": 1
-    },
-    {
-      "submission_id": 27,
-      "k": 1395,
-      "w": 1,
-      "h": 1
-    },
-    {
-      "submission_id": 28,
-      "k": 429,
-      "w": 10,
-      "h": 10
     }
   ]
 }
