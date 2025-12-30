@@ -1,0 +1,14 @@
+{
+  "updated_at": 1731200000,
+  "slots": [
+    {
+      "slot_id": 1,
+      "k": 1234,
+      "w": 1,
+      "h": 1,
+      "name": "Test Name",
+      "link": "https://example.com",
+      "bio": "Test Bio"
+    }
+  ]
+}
