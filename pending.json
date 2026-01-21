@@ -1,5 +1,5 @@
 {
-  "updated_at": 1768500129243,
+  "updated_at": 1768956603353,
   "pending": [
     {
       "submission_id": 24,
@@ -34,6 +34,12 @@
     {
       "submission_id": 33,
       "k": 4610,
+      "w": 1,
+      "h": 1
+    },
+    {
+      "submission_id": 34,
+      "k": 2790,
       "w": 1,
       "h": 1
     }
