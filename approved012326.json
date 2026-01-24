@@ -1,0 +1,20 @@
+{
+  "updated_at": 1731200000,
+  "slots": [
+    { "slot_id": 22, "k": 1,   "w": 3, "h": 3, "name": "Instagram", "link": "https://instagram.com/instagram/", "bio": "Share photos, stories, and moments." },
+    { "slot_id": 23, "k": 5,   "w": 3, "h": 3, "name": "Nike",      "link": "https://www.nike.com",             "bio": "Performance gear for athletes worldwide." },
+    { "slot_id": 24, "k": 9,   "w": 3, "h": 3, "name": "Apple",     "link": "https://www.apple.com",            "bio": "Technology focused on design and privacy." },
+    { "slot_id": 25, "k": 13,  "w": 3, "h": 3, "name": "Google",    "link": "https://www.google.com",           "bio": "Search and software powering the web." },
+    { "slot_id": 26, "k": 17,  "w": 3, "h": 3, "name": "YouTube",   "link": "https://www.youtube.com",          "bio": "Global video platform for creators." },
+    { "slot_id": 27, "k": 21,  "w": 3, "h": 3, "name": "Amazon",    "link": "https://www.amazon.com",           "bio": "Online marketplace and cloud leader." },
+    { "slot_id": 28, "k": 25,  "w": 3, "h": 3, "name": "Spotify",   "link": "https://www.spotify.com",          "bio": "Music and podcast streaming service." },
+    { "slot_id": 29, "k": 29,  "w": 3, "h": 3, "name": "Netflix",   "link": "https://www.netflix.com",          "bio": "Movies and TV streaming worldwide." },
+    { "slot_id": 30, "k": 33,  "w": 3, "h": 3, "name": "Adobe",     "link": "https://www.adobe.com",            "bio": "Creative and document software tools." },
+    { "slot_id": 31, "k": 37,  "w": 3, "h": 3, "name": "OpenAI",    "link": "https://openai.com",               "bio": "Building safe and useful AI systems." },
+
+    { "slot_id": 32, "k": 161, "w": 3, "h": 3, "name": "X",         "link": "https://x.com",                    "bio": "Real-time global conversation hub." },
+    { "slot_id": 33, "k": 165, "w": 3, "h": 3, "name": "Meta",      "link": "https://www.meta.com",             "bio": "Social platforms and immersive tech." },
+    { "slot_id": 34, "k": 169, "w": 3, "h": 3, "name": "TikTok",    "link": "https://www.tiktok.com",           "bio": "Short-form video and creator trends." },
+    { "slot_id": 35, "k": 173, "w": 3, "h": 3, "name": "LinkedIn",  "link": "https://www.linkedin.com",         "bio": "Professional networking and careers." }
+  ]
+}
