@@ -1,0 +1,18 @@
+[
+
+  {
+    "id": "9C2F4D9A-6F6A-4D58-9E2F-7A8E3F7A9C12",
+    "name": "Facebook",
+    "bio": "Social Media Platform.",
+    "link": "https://facebook.com/facebook/"
+  },
+  
+  {
+    "id": "9C2F4D9A-6F6A-4D58-9E2F-7A8E3F7A9C11",
+    "name": "Instagram",
+    "bio": "Social Media Platform.",
+    "link": "https://instagram.com/instagram/"
+  }
+
+
+]
